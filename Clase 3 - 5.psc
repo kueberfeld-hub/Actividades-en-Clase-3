@@ -3,8 +3,7 @@ Algoritmo ContarLetras
     Definir cantidad Como Entero
 	
     Escribir "Ingrese una frase:"
-    Leer frase
-	Leer frase
+    Leer
     cantidad <- Longitud(frase)
 	
     Escribir "La frase tiene ", cantidad, " letras."
