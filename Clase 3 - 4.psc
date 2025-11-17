@@ -7,12 +7,12 @@ Algoritmo Promedios
     suma <- 0
 	
     Para i <- 1 Hasta 5 Hacer
-        Escribir "Ingrese el número ", i, ":"
+        Escribir "Ingrese el nÃºmero ", i, ":"
         Leer numeros[i]
         suma <- suma + numeros[i]
     FinPara
 	
     promedio <- suma / 5
 	
-    Escribir "El promedio de los 5 números es: ", promedio
+    Escribir "El promedio de los 5 nÃºmeros es: ", promedio
 FinAlgoritmo
